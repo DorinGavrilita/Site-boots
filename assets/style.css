@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+div.card-body {
+  text-align: left;
+}
+
+.card bg-dark text-white {
+  width: 500px;
+}
+
+.card-img {
+  width: 400px;
+}
+
+.card {
+  
+}
+
+.img-thumbnail {
+  width: 300px;
+}
