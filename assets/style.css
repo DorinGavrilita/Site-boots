@@ -60,5 +60,32 @@
 }
 
 .feature-content {
-  
+  background: #F8FFFB;
+  border-radius: 10px;
+  padding: 50px 0;
 }
+
+.feature-content img {
+  width: 20%;
+}
+
+.feature-content h2 {
+  color: #413960;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  margin-top: 15px;
+}
+
+.feature-content p {
+  color: #585859;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.feature-content:hover {
+  background-color: #FFFFFF;
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
